@@ -1,0 +1,5 @@
+FULL STACK  WEB DEVELOPMENT FRONT END ALL USED SKILLS AND TAGS
+SOME IMPORTANT LINKS:
+1. bootstrap
+2. pixabay
+3. www.developer.mozilla.org>>>>>>> ;root{ }      

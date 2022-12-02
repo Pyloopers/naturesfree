@@ -1,0 +1,17 @@
+p {
+    font-family: 'StrikeNestRegular';
+    font-weight: bolder;
+    font-style: normal;
+ }
+ :root{
+   text-size-adjust: "12%";
+    background: lightgreen;
+ }
+ body{
+    color: yellowgreen;
+ }
+ .card-text{
+   color: blue;
+   font-style:initial;
+ }
+ 
